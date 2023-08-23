@@ -2,14 +2,27 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello!&fontSize=40">
 
+## Languages
+<div>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
+</div>
+  
+## Tools
+<div>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
+</div>
+
 # I'm
-* Ajou University(2019.03 ~ ) Dept Digital Media & Software
+* Ajou University(2019.03 ~ )
 
 # Interest in
 * Machine Learning/Deep Learning Development
 * MLOps (Machine Learning Operation - ML/DL Model Production)
 * DB System
 
+# Stats
 
 [![jongwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjongdals)](https://github.com/jjongdals/github-readme-stats)
 
