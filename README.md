@@ -19,11 +19,11 @@
 
 # I'm
 * Ajou University(2019.03 ~ )
-
+  
 # Interest in
 * Machine Learning/Deep Learning Development
 * MLOps (Machine Learning Operation - ML/DL Model Production)
-* DB System
+* Distributed System
 
 # Stats
 
