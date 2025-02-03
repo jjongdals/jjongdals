@@ -1,6 +1,6 @@
-# <center>Hello! Jongwon's GitHub.👋</center> 
+# <center>Hello, Jongwon's GitHub.👋</center> 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello!&fontSize=40">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=jjongGithub&fontSize=40">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjjongdals%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ## Languages
@@ -17,13 +17,15 @@
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
 </div>
 
+
 # I'm
-* Ajou University(2019.03 ~ )
+* Ajou University(2019.03 ~ 2025.02)
   
 # Interest in
 * Machine Learning/Deep Learning Development
 * MLOps (Machine Learning Operation - ML/DL Model Production)
 * Distributed System
+* Data Engineering
 
 # Stats
 
