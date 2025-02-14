@@ -19,7 +19,7 @@
 
 
 # I'm
-* Ajou University Digital Media & Software and Computer Engineering (2019.03 - 2025.02)
+* Ajou University Digital Media (2019.03 - 2025.02)
 * Hanwha Momentum corporation SW Engineer (2025.03 - )
   
 # Interest in
