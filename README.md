@@ -19,7 +19,8 @@
 
 
 # I'm
-* Ajou University(2019.03 ~ 2025.02)
+* Ajou University(2019.03 - 2025.02)
+* Hanwha Momentum corporation SW Engineer (2025.03 - )
   
 # Interest in
 * Machine Learning/Deep Learning Development
