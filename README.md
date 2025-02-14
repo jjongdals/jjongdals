@@ -23,7 +23,7 @@
 * Hanwha Momentum corporation SW Engineer (2025.03 - )
   
 # Interest in
-* Machine Learning/Deep Learning Development
+* Machine Learning / Deep Learning Development
 * MLOps (Machine Learning Operation - ML/DL Model Production)
 * Distributed System
 * Data Engineering
