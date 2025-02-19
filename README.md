@@ -19,8 +19,8 @@
 
 
 # I'm
-* Ajou University Digital Media (2019.03 - 2025.02)
-* Hanwha Momentum corporation SW Engineer (2025.03 - )
+* Ajou University B.S in Digital Media (2019.03 - 2025.02)
+* Hanwha Momentum Co.,Ltd. SW Engineer (2025.03 - )
   
 # Interest in
 * Machine Learning / Deep Learning Development
