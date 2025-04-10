@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=jjongGithub&fontSize=40">
 
-I'm developing Rechargeable battery equipment Software in Hanwha Corporation. 
+I'm developing Rechargeable battery equipment Software.
 And I'm studying and interested in new technologies.
 
 Contact can be made via email (jwpark0918@hanwha.com)
